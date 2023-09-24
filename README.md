@@ -30,3 +30,4 @@ The dataset used is the [Laptop Prices dataset](https://www.kaggle.com/datasets/
 
 ### 2.4 Streamlit Model
 ##### Created a webpage app for end user to easily predict the price
+[Streamlit App](https://bit.ly/laptop-prices)
